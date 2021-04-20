@@ -29,6 +29,7 @@
 &#8195;&#8195;启蒙上位机3.0版在保留上述功能的基础上，又新增了 **隐藏接收** 和 **数据实时可视化** 的功能。<br>
 
 **No picture,No truth:**<br>
+
 3.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image3v0.png" alt="pic4_readme"/></div><br>
 
