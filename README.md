@@ -34,7 +34,7 @@
 
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image3v1.png" alt="pic4_readme"/></div><br>
 
-<div align=center><img width="80%" height="80%" src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image3v2.png" alt="pic4_readme"/></div><br>
+<div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image3v2.png" alt="pic4_readme"/></div><br>
 1.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image019.png" alt="pic4_readme"/></div>
 <br>
